@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Unique Dragon Wolfpack</title>
+
+<link rel="stylesheet" href="../unique_dragon_wolfpack_boutique/css/stylesheet">
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+</head>
+
+<body>
+<div class="container">
+
+<header>
+   <h3>Unique Dragon Wolfpack</h3>
+</header>
+
+<nav>
+  <ul>
+    <li><a href="#">Necklaces</a></li>
+    <li><a href="#">Bracelets</a></li>
+    <li><a href="#">Earrings</a></li>
+	<li><a href="#">Chokers</a></li>
+	<li><a href="#">Wands</a></li>
+	<li><a href="#">Trees</a></li>
+	<li><a href="#">Walking Sticks</a></li>
+	<li><a href="#">Paintings</a></li>
+  </ul>
+</nav>
+
+<article>
+
+</article>
+<footer>Copyright &copy; W3Schools.com</footer>
+
+</div>
+</body>
+
+</html>
